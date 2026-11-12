@@ -1,0 +1,5 @@
+data/ict_homeroom.txt
+data/ict_microlab.txt
+data/atrium_north_floor1.txt
+data/atrium_south_floor1.txt
+data/atrium_north_floor2.txt
